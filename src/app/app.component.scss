@@ -1,0 +1,49 @@
+.color-background {
+  background-color: hsl(36, 100%, 84%);
+  margin-bottom: 10px;
+}
+
+.mat-card {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-label {
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.custom-button {
+  background-color: coral;
+  color: white;
+}
+
+.cards {
+  width: 100 vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.mat-card-simples {
+  background-color: hsl(36, 100%, 84%);
+  margin: 2em;
+  width: 40vw;
+}
